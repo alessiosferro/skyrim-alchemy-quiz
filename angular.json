@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "skyrim-alchemy-app": {
@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "skyrim-alchemy-app"
+    }
+  },
+  "defaultProject": "skyrim-alchemy-app",
+  "cli": {
+    "analytics": "bb2a4cbe-b125-413a-8a1b-3d18a9d52d80"
+  }
 }
