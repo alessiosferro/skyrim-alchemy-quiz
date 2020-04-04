@@ -1,7 +1,7 @@
 {
   "ingredients": [
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7f/Jazbay_grapes_skyrim.png/revision/latest?cb=20121230130537&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7f/Jazbay_grapes_skyrim.png",
       "name": "Acini di Jazbay",
       "effects": [
         "Vulnerabilità alla magia",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b9/Torchbug_thorax-0.png/revision/latest?cb=20160524160940&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b9/Torchbug_thorax-0.png",
       "name": "Addome di lucciola",
       "effects": [
         "Ripristina vigore",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Garlic-0.png/revision/latest?cb=20160524143721&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Garlic-0.png",
       "name": "Aglio",
       "effects": [
         "Resistenza al veleno",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/a1/Luna_Moth_wing.png/revision/latest?cb=20121230230845&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/a1/Luna_Moth_wing.png",
       "name": "Ala di falena",
       "effects": [
         "Danneggia magicka",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Ala_Falena_Ancestrale.png/revision/latest?cb=20180630131642&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Ala_Falena_Ancestrale.png",
       "name": "Ala di Falena Ancestrale",
       "effects": [
         "Danneggia vigore",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b3/Butterfly_wing.png/revision/latest?cb=20121229225323&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b3/Butterfly_wing.png",
       "name": "Ala di farfalla",
       "effects": [
         "Ripristina salute",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/FileSR-ing-Blue_Butterfly_Wing.png/revision/latest?cb=20120204163938&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/FileSR-ing-Blue_Butterfly_Wing.png",
       "name": "Ala di farfalla blu",
       "effects": [
         "Danneggia vigore",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/1/10/Fly_amanita-0.png/revision/latest?cb=20160524161022&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/1/10/Fly_amanita-0.png",
       "name": "Amanita muscaria",
       "effects": [
         "Resistenza al fuoco",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/36/FileSR-ing-Bee.png/revision/latest?cb=20120204162956&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/36/FileSR-ing-Bee.png",
       "name": "Ape",
       "effects": [
         "Ripristina vigore",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/FileSR-ing-Bear_Claws.png/revision/latest?cb=20120204162917&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/FileSR-ing-Bear_Claws.png",
       "name": "Artigli di orso",
       "effects": [
         "Ripristina vigore",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9f/Hagraven_claw-0.png/revision/latest?cb=20160524144005&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9f/Hagraven_claw-0.png",
       "name": "Artiglio di hagraven",
       "effects": [
         "Resistenza alla magia",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/Snowberries.png/revision/latest?cb=20130113214541&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/Snowberries.png",
       "name": "Baccaneve",
       "effects": [
         "Resistenza al fuoco",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Grass_pod-0.png/revision/latest?cb=20160524144115&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Grass_pod-0.png",
       "name": "Baccello",
       "effects": [
         "Resistenza al veleno",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Baccello_erba_cinerea.png/revision/latest?cb=20180624175002&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Baccello_erba_cinerea.png",
       "name": "Baccello di erba cinerea",
       "effects": [
         "Resistenza al fuoco",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Swamp_fungal_pod-0.png/revision/latest?cb=20160524160144&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Swamp_fungal_pod-0.png",
       "name": "Baccello fungale di palude",
       "effects": [
         "Resistenza all'elettricità",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/87/Juniper_berries-0.png/revision/latest?cb=20160524151243&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/87/Juniper_berries-0.png",
       "name": "Bacche di ginepro",
       "effects": [
         "Vulnerabilità al fuoco",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hawk_beak-0.png/revision/latest?cb=20160524144246&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hawk_beak-0.png",
       "name": "Becco di falco",
       "effects": [
         "Ripristina vigore",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Nightshade.png/revision/latest?cb=20160524122721&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Nightshade.png",
       "name": "Belladonna",
       "effects": [
         "Danneggia salute",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5a/Bocciolo_luce.png/revision/latest?cb=20180608135507&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5a/Bocciolo_luce.png",
       "name": "Bocciolo di luce",
       "effects": [
         "Resistenza alla magia",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/84/Bocciolo_velenoso.png/revision/latest?cb=20180614123411&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/84/Bocciolo_velenoso.png",
       "name": "Bocciolo velenoso",
       "effects": [
         "Danneggia salute",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Deathbell.png/revision/latest?cb=20160524100618&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Deathbell.png",
       "name": "Campanula mortale",
       "effects": [
         "Danneggia salute",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Carne_umana.png/revision/latest?cb=20160524132107&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Carne_umana.png",
       "name": "Carne umana",
       "effects": [
         "Danneggia salute",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c8/Histcarp.png/revision/latest?cb=20160524144505&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c8/Histcarp.png",
       "name": "Carpa histiana",
       "effects": [
         "Ripristina vigore",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6f/Cenere_progenie.png/revision/latest?cb=20180626121949&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6f/Cenere_progenie.png",
       "name": "Cenere di progenie",
       "effects": [
         "Devasta vigore",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/05/Ceneri_Berit.png/revision/latest?cb=20180621123734&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/05/Ceneri_Berit.png",
       "name": "Ceneri di Berit",
       "effects": [
         "Danneggia vigore",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/df/Imp_stool.png/revision/latest?cb=20160524144557&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/df/Imp_stool.png",
       "name": "Ceppo di folletto",
       "effects": [
         "Danneggia salute",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Mudcrab_chitin.png/revision/latest?cb=20160524153449&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Mudcrab_chitin.png",
       "name": "Chitina di granchio del fango",
       "effects": [
         "Ripristina vigore",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/99/Nordic_barnacle.png/revision/latest?cb=20160524152826&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/99/Nordic_barnacle.png",
       "name": "Cirripede nordico",
       "effects": [
         "Danneggia magicka",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/70/Skeever_tail.png/revision/latest?cb=20160524155949&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/70/Skeever_tail.png",
       "name": "Coda di skeever",
       "effects": [
         "Danneggia rigenerazione vigore",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/40/Codalarga.png/revision/latest?cb=20180302130351&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/40/Codalarga.png",
       "name": "Codalarga",
       "effects": [
         "Danneggia salute",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Large_antlers.png/revision/latest?cb=20160524145549&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Large_antlers.png",
       "name": "Corna grandi",
       "effects": [
         "Ripristina vigore",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d5/FileSR-ing-Bleeding_Crown.png/revision/latest?cb=20120204163443&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d5/FileSR-ing-Bleeding_Crown.png",
       "name": "Corona insanguinata",
       "effects": [
         "Vulnerabilità al fuoco",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/Tundra_cotton.png/revision/latest?cb=20160524154513&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/Tundra_cotton.png",
       "name": "Cotone della tundra",
       "effects": [
         "Resistenza alla magia",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/24/Daedra_heart.png/revision/latest?cb=20160524144844&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/24/Daedra_heart.png",
       "name": "Cuore di Daedra",
       "effects": [
         "Ripristina salute",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6a/TESV_Briar_Heart.png/revision/latest?cb=20160524144817&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6a/TESV_Briar_Heart.png",
       "name": "Cuore di rovo",
       "effects": [
         "Rigenera magicka",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Human_heart.png/revision/latest?cb=20160524145000&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Human_heart.png",
       "name": "Cuore umano",
       "effects": [
         "Danneggia salute",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Ice_wraith_teeth.png/revision/latest?cb=20160524145110&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Ice_wraith_teeth.png",
       "name": "Dente di spettro del ghiaccio",
       "effects": [
         "Vulnerabilità al gelo",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/46/Dente_di_tigre_dai_denti_a_sciabola-0.png/revision/latest?cb=20160524092222&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/46/Dente_di_tigre_dai_denti_a_sciabola-0.png",
       "name": "Dente di tigre dai denti a sciabola",
       "effects": [
         "Ripristina vigore",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/20/Giants_toe.png/revision/latest?cb=20160524145206&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/20/Giants_toe.png",
       "name": "Dito di gigante",
       "effects": [
         "Danneggia vigore",
@@ -391,7 +391,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Skyrim_ectoplasm.png/revision/latest?cb=20160524145249&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Skyrim_ectoplasm.png",
       "name": "Ectoplasma",
       "effects": [
         "Ripristina magicka",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/41/FileSR-ing-Bone_Meal.png/revision/latest?cb=20120204164114&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/41/FileSR-ing-Bone_Meal.png",
       "name": "Farina d'ossa",
       "effects": [
         "Danneggia vigore",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Wisp_wrappings.png/revision/latest?cb=20160524153843&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Wisp_wrappings.png",
       "name": "Fasce del fuoco fatuo",
       "effects": [
         "Ripristina vigore",
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/SR-icon-ingredient-Honeycomb.png/revision/latest?cb=20160524145352&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/SR-icon-ingredient-Honeycomb.png",
       "name": "Favo",
       "effects": [
         "Ripristina vigore",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/FileSR-ing-Blue_Mountain_Flower.png/revision/latest?cb=20120204164033&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/FileSR-ing-Blue_Mountain_Flower.png",
       "name": "Fiore blu di montagna",
       "effects": [
         "Ripristina salute",
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/50/Fiore_giallo.png/revision/latest?cb=20180603180113&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/50/Fiore_giallo.png",
       "name": "Fiore giallo di montagna",
       "effects": [
         "Resistenza al veleno",
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Red_mountain_flower.png/revision/latest?cb=20160524151904&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Red_mountain_flower.png",
       "name": "Fiore rosso di montagna",
       "effects": [
         "Ripristina magicka",
@@ -461,7 +461,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/66/Purple_mountain_flower.png/revision/latest?cb=20160524153259&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/66/Purple_mountain_flower.png",
       "name": "Fiore viola di montagna",
       "effects": [
         "Ripristina vigore",
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/Skyrim_Taproot.png/revision/latest?cb=20160524152205&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/Skyrim_Taproot.png",
       "name": "Fittone",
       "effects": [
         "Vulnerabilità alla magia",
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fb/White_cap.png/revision/latest?cb=20160524160810&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fb/White_cap.png",
       "name": "Fungo bianco",
       "effects": [
         "Vulnerabilità al gelo",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Glowing_mushroom.png/revision/latest?cb=20160524161802&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Glowing_mushroom.png",
       "name": "Fungo luminoso",
       "effects": [
         "Resistenza all'elettricità",
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/90/Gelatina_netch.png/revision/latest?cb=20180608135336&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/90/Gelatina_netch.png",
       "name": "Gelatina di netch",
       "effects": [
         "Paralisi",
@@ -511,7 +511,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bd/Gelatina_solca_cenere.png/revision/latest?cb=20180611131705&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bd/Gelatina_solca_cenere.png",
       "name": "Gelatina di solca-cenere",
       "effects": [
         "Ripristina salute",
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Wheat.png/revision/latest?cb=20160524160719&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Wheat.png",
       "name": "Grano",
       "effects": [
         "Ripristina salute",
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8c/Troll_fat.png/revision/latest?cb=20160524160643&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8c/Troll_fat.png",
       "name": "Grasso di troll",
       "effects": [
         "Resistenza al veleno",
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Lavender.png/revision/latest?cb=20160524151415&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Lavender.png",
       "name": "Lavanda",
       "effects": [
         "Resistenza alla magia",
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e5/Legno_spriggan_bruciato.png/revision/latest?cb=20180615124714&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e5/Legno_spriggan_bruciato.png",
       "name": "Legno di spriggan bruciato",
       "effects": [
         "Vulnerabilità al fuoco",
@@ -561,7 +561,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b5/Libellula_arancione.png/revision/latest?cb=20180309161147&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b5/Libellula_arancione.png",
       "name": "Libellula arancione",
       "effects": [
         "Ripristina vigore",
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b6/Libellula_blu.png/revision/latest?cb=20180311162829&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b6/Libellula_blu.png",
       "name": "Libellula blu",
       "effects": [
         "Resistenza all'elettricità",
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/3b/Giant_lichen.png/revision/latest?cb=20160524145745&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/3b/Giant_lichen.png",
       "name": "Lichene gigante",
       "effects": [
         "Vulnerabilità all'elettricità",
@@ -591,7 +591,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8f/Skyrim_spriggan_sap.png/revision/latest?cb=20160524160242&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8f/Skyrim_spriggan_sap.png",
       "name": "Linfa di spriggan",
       "effects": [
         "Danneggia rigenerazione magicka",
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/TESV_Dragons_Tongue.png/revision/latest?cb=20160524145813&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/TESV_Dragons_Tongue.png",
       "name": "Lingua di drago",
       "effects": [
         "Resistenza al fuoco",
@@ -611,7 +611,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f4/Namiras_rot.png/revision/latest?cb=20160524153000&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f4/Namiras_rot.png",
       "name": "Miceto di Namira",
       "effects": [
         "Danneggia magicka",
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fc/TESV_Frost_Mirriam.png/revision/latest?cb=20160524145921&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fc/TESV_Frost_Mirriam.png",
       "name": "Mirra del gelo",
       "effects": [
         "Resistenza al freddo",
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Mora_tapinella.png/revision/latest?cb=20160524152348&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Mora_tapinella.png",
       "name": "Mora tapinella",
       "effects": [
         "Ripristina magicka",
@@ -641,7 +641,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c3/Salt_pile.png/revision/latest?cb=20160524155328&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c3/Salt_pile.png",
       "name": "Mucchio di sali",
       "effects": [
         "Vulnerabilità alla magia",
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hanging_moss.png/revision/latest?cb=20160524151459&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hanging_moss.png",
       "name": "Muschio",
       "effects": [
         "Danneggia magicka",
@@ -661,7 +661,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6e/Muschio_Imperatore.png/revision/latest?cb=20180613124124&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6e/Muschio_Imperatore.png",
       "name": "Muschio dell'Imperatore",
       "effects": [
         "Danneggia salute",
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/04/TESV_Eye_Of_Sabre_Cat.png/revision/latest?cb=20160524150005&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/04/TESV_Eye_Of_Sabre_Cat.png",
       "name": "Occhio di tigre dai denti a sciabola",
       "effects": [
         "Ripristina vigore",
@@ -681,7 +681,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Dwarven_oil.png/revision/latest?cb=20160524150031&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Dwarven_oil.png",
       "name": "Olio nanico",
       "effects": [
         "Vulnerabilità alla magia",
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5e/TESV_Elves_Ear.png/revision/latest?cb=20160524150106&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5e/TESV_Elves_Ear.png",
       "name": "Orecchio di elfo",
       "effects": [
         "Ripristina magicka",
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7d/TESV_Falmer_Ear.png/revision/latest?cb=20160524150139&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7d/TESV_Falmer_Ear.png",
       "name": "Orecchio di falmer",
       "effects": [
         "Danneggia salute",
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/85/TESV_Charred_Skeever_Hide.png/revision/latest?cb=20160524150223&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/85/TESV_Charred_Skeever_Hide.png",
       "name": "Pelle di skeever arrosto",
       "effects": [
         "Ripristina vigore",
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c2/Skyrim_Pearl.png/revision/latest?cb=20160524154307&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c2/Skyrim_Pearl.png",
       "name": "Perla",
       "effects": [
         "Ripristina vigore",
@@ -731,7 +731,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Small_pearl.png/revision/latest?cb=20160524154040&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Small_pearl.png",
       "name": "Perla piccola",
       "effects": [
         "Ripristina vigore",
@@ -741,7 +741,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e8/Persico_argenteo.png/revision/latest?cb=20160524154151&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e8/Persico_argenteo.png",
       "name": "Persico argenteo",
       "effects": [
         "Ripristina vigore",
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Beehive_Husk.png/revision/latest?cb=20180320101509&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Beehive_Husk.png",
       "name": "Pezzo di alveare",
       "effects": [
         "Resistenza al veleno",
@@ -761,7 +761,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ed/Scaly_pholiota.png/revision/latest?cb=20160524155827&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ed/Scaly_pholiota.png",
       "name": "Pholiota squamosa",
       "effects": [
         "Vulnerabilità alla magia",
@@ -771,7 +771,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Small_antlers.png/revision/latest?cb=20160524155545&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Small_antlers.png",
       "name": "Piccole corna",
       "effects": [
         "Vulnerabilità al veleno",
@@ -781,7 +781,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/01/FileSR-ing-Abecean_Longfin.png/revision/latest?cb=20120204162135&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/01/FileSR-ing-Abecean_Longfin.png",
       "name": "Pinnalunga abeceano",
       "effects": [
         "Vulnerabilità al gelo",
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/af/Hawk_feathers.png/revision/latest?cb=20160524150352&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/af/Hawk_feathers.png",
       "name": "Piume di falco",
       "effects": [
         "Cura malattie",
@@ -801,7 +801,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Piume_Felsaad_Tern.png/revision/latest?cb=20180623124145&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Piume_Felsaad_Tern.png",
       "name": "Piume di Felsaad Tern",
       "effects": [
         "Ripristina salute",
@@ -811,7 +811,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Hagraven_feathers.png/revision/latest?cb=20160524150453&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Hagraven_feathers.png",
       "name": "Piume di hagraven",
       "effects": [
         "Danneggia magicka",
@@ -821,7 +821,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f6/Skyrim_vampire_dust.png/revision/latest?cb=20160524152029&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f6/Skyrim_vampire_dust.png",
       "name": "Polvere di vampiro",
       "effects": [
         "Invisibilità",
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d9/Skyrim_glow_dust.png/revision/latest?cb=20160524150601&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d9/Skyrim_glow_dust.png",
       "name": "Polvere luminosa",
       "effects": [
         "Danneggia magicka",
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/4f/Radice_amara.png/revision/latest?cb=20180623124102&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/4f/Radice_amara.png",
       "name": "Radice amara",
       "effects": [
         "Vulnerabilità all'elettricità",
@@ -851,7 +851,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/47/Canis_root.png/revision/latest?cb=20160524150637&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/47/Canis_root.png",
       "name": "Radice canina",
       "effects": [
         "Danneggia vigore",
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/B617F250-7F46-4883-9933-FA2B8A4B3046.png/revision/latest?cb=20180623143122&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/B617F250-7F46-4883-9933-FA2B8A4B3046.png",
       "name": "Radice di Jarrin",
       "effects": [
         "Danneggia salute",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Nirnroot.png/revision/latest?cb=20160524151745&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Nirnroot.png",
       "name": "Radice di Nirn",
       "effects": [
         "Danneggia salute",
@@ -881,7 +881,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/TESV_Crimson_Nirnroot.png/revision/latest?cb=20180325182146&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/TESV_Crimson_Nirnroot.png",
       "name": "Radice di Nirn Cremisi",
       "effects": [
         "Danneggia salute",
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bf/SR-icon-ingredient-Thistle_Branch.png/revision/latest?cb=20160524150714&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bf/SR-icon-ingredient-Thistle_Branch.png",
       "name": "Ramo di cardo",
       "effects": [
         "Resistenza al freddo",
@@ -901,7 +901,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Creep_cluster.png/revision/latest?cb=20160524150759&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Creep_cluster.png",
       "name": "Rampicanti",
       "effects": [
         "Ripristina magicka",
@@ -911,7 +911,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5b/Rampicanti_cenere.png/revision/latest?cb=20180625154630&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5b/Rampicanti_cenere.png",
       "name": "Rampicanti di cenere",
       "effects": [
         "Danneggia vigore",
@@ -921,7 +921,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f5/FileSR-ing-Blisterwort.png/revision/latest?cb=20120204163902&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f5/FileSR-ing-Blisterwort.png",
       "name": "Ranuncolo",
       "effects": [
         "Danneggia vigore",
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7b/Sali_del_fuoco_%28Skyrim%29.jpg/revision/latest?cb=20111220154341&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7b/Sali_del_fuoco_%28Skyrim%29.jpg",
       "name": "Sali del fuoco",
       "effects": [
         "Vulnerabilità al gelo",
@@ -941,7 +941,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Skyrim_frost_salts.png/revision/latest?cb=20160524150836&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Skyrim_frost_salts.png",
       "name": "Sali del gelo",
       "effects": [
         "Vulnerabilità al fuoco",
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/be/Skyrim_void_salts.png/revision/latest?cb=20160524154648&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/be/Skyrim_void_salts.png",
       "name": "Sali del vuoto",
       "effects": [
         "Vulnerabilità all'elettricità",
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/28/Cyrodillic_spadetail.png/revision/latest?cb=20160524150925&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/28/Cyrodillic_spadetail.png",
       "name": "Spadino cyrodiilico",
       "effects": [
         "Danneggia vigore",
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Slaughterfish_scales.png/revision/latest?cb=20160524152457&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Slaughterfish_scales.png",
       "name": "Squame di pesce macellaio",
       "effects": [
         "Resistenza al freddo",
@@ -981,7 +981,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8a/Chaurus_egg.png/revision/latest?cb=20160524151005&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8a/Chaurus_egg.png",
       "name": "Uova di chaurus",
       "effects": [
         "Vulnerabilità al veleno",
@@ -991,7 +991,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Hawk_egg.png/revision/latest?cb=20180623212235&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Hawk_egg.png",
       "name": "Uovo di falco",
       "effects": [
         "Resistenza alla magia",
@@ -1001,7 +1001,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/Chicken_egg.png/revision/latest?cb=20160524151050&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/Chicken_egg.png",
       "name": "Uovo di gallina",
       "effects": [
         "Resistenza alla magia",
@@ -1011,7 +1011,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Uovo_di_passero_delle_rocce.png/revision/latest?cb=20160524155213&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Uovo_di_passero_delle_rocce.png",
       "name": "Uovo di passero delle rocce",
       "effects": [
         "Ripristina salute",
@@ -1021,7 +1021,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d6/Slaughterfish_egg.png/revision/latest?cb=20160524152604&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d6/Slaughterfish_egg.png",
       "name": "Uovo di pesce macellaio",
       "effects": [
         "Resistenza al veleno",
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/dc/Spider_egg.png/revision/latest?cb=20160524154949&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/dc/Spider_egg.png",
       "name": "Uovo di ragno",
       "effects": [
         "Danneggia vigore",
@@ -1041,7 +1041,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/Uovo_di_tordo.png/revision/latest?cb=20160524153730&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/Uovo_di_tordo.png",
       "name": "Uovo di tordo",
       "effects": [
         "Ripristina vigore",
@@ -1051,7 +1051,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9e/Zanna_cinghiale.png/revision/latest?cb=20180610091943&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9e/Zanna_cinghiale.png",
       "name": "Zanna di cinghiale",
       "effects": [
         "Fortifica vigore",
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Zanna_mammut_polvere.png/revision/latest?cb=20180303173905&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Zanna_mammut_polvere.png",
       "name": "Zanna di mammut in polvere",
       "effects": [
         "Ripristina vigore",
@@ -1071,7 +1071,7 @@
       ]
     },
     {
-      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e7/Skyrim_moon_sugar-0.png/revision/latest?cb=20160524161618&path-prefix=it",
+      "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e7/Skyrim_moon_sugar-0.png",
       "name": "Zucchero Lunare",
       "effects": [
         "Vulnerabilità al fuoco",
