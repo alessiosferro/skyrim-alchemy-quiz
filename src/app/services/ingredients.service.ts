@@ -6,7 +6,7 @@ import { HttpClient } from "@angular/common/http";
 import { Ingredient } from "../models/ingredient";
 
 @Injectable({
-  providedIn: "root"
+  providedIn: "root",
 })
 export class IngredientsService {
   readonly apiUrl: string = environment.apiUrl;
@@ -22,8 +22,8 @@ export class IngredientsService {
   ): Observable<Ingredient> {
     return ingredients$.pipe(
       take(1),
-      map(ingredients => {
-        const index = Math.floor(Math.random() * ingredients.length);
+      map((ingredients) => {
+        const index = Math.floor(Math.random() * (ingredients.length - 1));
         return ingredients[index];
       })
     );
