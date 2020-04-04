@@ -1,831 +1,1083 @@
 {
    "ingredients": [
       {
-         "name": "Abecean Longfin",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7f/Jazbay_grapes_skyrim.png/revision/latest?cb=20121230130537&path-prefix=it",
+         "name": "Acini di Jazbay",
          "effects": [
-            "Weakness to Frost",
-            "Fortify Sneak",
-            "Weakness to Poison",
-            "Fortify Restoration"
+            "Vulnerabilità alla magia",
+            "Fortifica magicka",
+            "Rigenera magicka",
+            "Devasta Salute (1)"
          ]
       },
       {
-         "name": "Bear Claws",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b9/Torchbug_thorax-0.png/revision/latest?cb=20160524160940&path-prefix=it",
+         "name": "Addome di lucciola",
          "effects": [
-            "Restore Stamina",
-            "Fortify Health",
-            "Fortify One-Handed",
-            "Damage Magicka Regen"
+            "Ripristina vigore",
+            "Danno continuato alla magicka",
+            "Vulnerabilità alla magia",
+            "Fortifica vigore"
          ]
       },
       {
-         "name": "Bee",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Garlic-0.png/revision/latest?cb=20160524143721&path-prefix=it",
+         "name": "Aglio",
          "effects": [
-            "Restore Stamina",
-            "Ravage Stamina",
-            "Regenerate Stamina",
-            "Weakness to Shock"
+            "Resistenza al veleno",
+            "Fortifica vigore",
+            "Rigenera magicka",
+            "Rigenera salute"
          ]
       },
       {
-         "name": "Beehive Husk",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/a1/Luna_Moth_wing.png/revision/latest?cb=20121230230845&path-prefix=it",
+         "name": "Ala di falena",
          "effects": [
-            "Resist Poison",
-            "Fortify Light Armor",
-            "Fortify Sneak",
-            "Fortify Destruction"
+            "Danneggia magicka",
+            "Fortifica Armatura leggera",
+            "Rigenera salute",
+            "Invisibilità"
          ]
       },
       {
-         "name": "Bleeding Crown",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Ala_Falena_Ancestrale.png/revision/latest?cb=20180630131642&path-prefix=it",
+         "name": "Ala di Falena Ancestrale",
          "effects": [
-            "Weakness to Fire",
-            "Fortify Block",
-            "Weakness to Poison",
-            "Resist Magic"
+            "Danneggia vigore",
+            "Fortifica evocazione",
+            "Danneggia rigenerazione magicka",
+            "Fortifica incantamento"
          ]
       },
       {
-         "name": "Blisterwort",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b3/Butterfly_wing.png/revision/latest?cb=20121229225323&path-prefix=it",
+         "name": "Ala di farfalla",
          "effects": [
-            "Damage Stamina",
-            "Restore Health",
-            "Frenzy",
-            "Fortify Smithing"
+            "Ripristina salute",
+            "Fortifica Oratoria",
+            "Danno continuato al vigore",
+            "Danneggia magicka"
          ]
       },
       {
-         "name": "Blue Butterfly Wing",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/FileSR-ing-Blue_Butterfly_Wing.png/revision/latest?cb=20120204163938&path-prefix=it",
+         "name": "Ala di farfalla blu",
          "effects": [
-            "Damage Stamina",
-            "Damage Magicka Regen",
-            "Fortify Conjuration",
-            "Fortify Enchanting"
+            "Danneggia vigore",
+            "Fortifica Evocazione",
+            "Danneggia rigenerazione magicka",
+            "Fortifica Incantamento"
          ]
       },
       {
-         "name": "Blue Dartwing",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/1/10/Fly_amanita-0.png/revision/latest?cb=20160524161022&path-prefix=it",
+         "name": "Amanita muscaria",
          "effects": [
-            "Resist Shock",
-            "Restore Health",
-            "Fortify Pickpocket",
-            "Fear"
+            "Resistenza al fuoco",
+            "Fortifica Armi a due mani",
+            "Frenesia",
+            "Rigenera vigore"
          ]
       },
       {
-         "name": "Blue Mountain Flower",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/36/FileSR-ing-Bee.png/revision/latest?cb=20120204162956&path-prefix=it",
+         "name": "Ape",
          "effects": [
-            "Restore Health",
-            "Fortify Conjuration",
-            "Fortify Health",
-            "Damage Magicka Regen"
+            "Ripristina vigore",
+            "Devasta Vigore (2)",
+            "Rigenera vigore",
+            "Vulnerabilità all'elettricità"
          ]
       },
       {
-         "name": "Bone Meal",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/FileSR-ing-Bear_Claws.png/revision/latest?cb=20120204162917&path-prefix=it",
+         "name": "Artigli di orso",
          "effects": [
-            "Damage Stamina",
-            "Fortify Conjuration",
-            "Resist Fire",
-            "Ravage Stamina"
+            "Ripristina vigore",
+            "Fortifica salute",
+            "Fortifica Armi a una mano",
+            "Danneggia rigenerazione magicka"
          ]
       },
       {
-         "name": "Briar Heart",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9f/Hagraven_claw-0.png/revision/latest?cb=20160524144005&path-prefix=it",
+         "name": "Artiglio di hagraven",
          "effects": [
-            "Restore Magicka",
-            "Fortify Block",
-            "Paralysis",
-            "Fortify Magicka"
+            "Resistenza alla magia",
+            "Danneggia permanentemente magicka",
+            "Fortifica Incantamento",
+            "Fortifica Oratoria"
          ]
       },
       {
-         "name": "Butterfly Wing",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/Snowberries.png/revision/latest?cb=20130113214541&path-prefix=it",
+         "name": "Baccaneve",
          "effects": [
-            "Restore Health",
-            "Lingering Damage Stamina",
-            "Fortify Barter",
-            "Damage Magicka"
+            "Resistenza al fuoco",
+            "Fortifica Incantamento",
+            "Resistenza al freddo",
+            "Resistenza all'elettricità"
          ]
       },
       {
-         "name": "Canis Root",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Grass_pod-0.png/revision/latest?cb=20160524144115&path-prefix=it",
+         "name": "Baccello",
          "effects": [
-            "Damage Stamina",
-            "Fortify Marksman",
-            "Fortify One-Handed",
-            "Paralysis"
+            "Resistenza al veleno",
+            "Devasta Magicka (3)",
+            "Fortifica Alterazione",
+            "Ripristina magicka"
          ]
       },
       {
-         "name": "Charred Skeever Hide",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Baccello_erba_cinerea.png/revision/latest?cb=20180624175002&path-prefix=it",
+         "name": "Baccello di erba cinerea",
          "effects": [
-            "Restore Stamina",
-            "Resist Poison",
-            "Cure Disease",
-            "Restore Health"
+            "Resistenza al fuoco",
+            "Vulnerabilità all'elettricità",
+            "Fortifica scassinare",
+            "Fortifica furtività"
          ]
       },
       {
-         "name": "Chaurus Eggs",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Swamp_fungal_pod-0.png/revision/latest?cb=20160524160144&path-prefix=it",
+         "name": "Baccello fungale di palude",
          "effects": [
-            "Weakness to Poison",
-            "Fortify Stamina",
-            "Damage Magicka",
-            "Invisibility\n"
+            "Resistenza all'elettricità",
+            "Danno continuato alla magicka",
+            "Paralizza",
+            "Ripristina salute"
          ]
       },
       {
-         "name": "Chicken's Egg",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/87/Juniper_berries-0.png/revision/latest?cb=20160524151243&path-prefix=it",
+         "name": "Bacche di ginepro",
          "effects": [
-            "Resist Magic",
-            "Waterbreathing",
-            "Damage Magicka Regen",
-            "Lingering Damage Stamina"
+            "Vulnerabilità al fuoco",
+            "Fortifica Tiro",
+            "Rigenera salute",
+            "Danneggia rigenerazione vigore"
          ]
       },
       {
-         "name": "Creep Cluster",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hawk_beak-0.png/revision/latest?cb=20160524144246&path-prefix=it",
+         "name": "Becco di falco",
          "effects": [
-            "Restore Magicka",
-            "Fortify Carry Weight",
-            "Damage Stamina Regen",
-            "Weakness to Magic"
+            "Ripristina vigore",
+            "Resistenza al freddo",
+            "Fortifica carico massimo",
+            "Resistenza all'elettricità"
          ]
       },
       {
-         "name": "Crimson Nirnroot",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ec/Nightshade.png/revision/latest?cb=20160524122721&path-prefix=it",
+         "name": "Belladonna",
          "effects": [
-            "Damage Health",
-            "Invisibility\n",
-            "Damage Stamina",
-            "Resist Magic"
+            "Danneggia salute",
+            "Danneggia rigenerazione magicka",
+            "Danno continuato al vigore",
+            "Fortifica Distruzione"
          ]
       },
       {
-         "name": "Cyrodilic Spadetail",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5a/Bocciolo_luce.png/revision/latest?cb=20180608135507&path-prefix=it",
+         "name": "Bocciolo di luce",
          "effects": [
-            "Damage Stamina",
-            "Fear",
-            "Fortify Restoration",
-            "Ravage Health"
+            "Resistenza alla magia",
+            "Paura",
+            "Rigenera salute",
+            "Paralisi"
          ]
       },
       {
-         "name": "Daedra Heart",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/84/Bocciolo_velenoso.png/revision/latest?cb=20180614123411&path-prefix=it",
+         "name": "Bocciolo velenoso",
          "effects": [
-            "Damage Stamina Regen",
-            "Damage Magicka",
-            "Restore Health",
-            "Fear"
+            "Danneggia salute",
+            "Lentezza",
+            "Fortifica carico massimo",
+            "Paura"
          ]
       },
       {
-         "name": "Deathbell",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Deathbell.png/revision/latest?cb=20160524100618&path-prefix=it",
+         "name": "Campanula mortale",
          "effects": [
-            "Damage Health",
-            "Ravage Stamina",
-            "Slow",
-            "Weakness to Poison"
+            "Danneggia salute",
+            "Devasta Vigore (2)",
+            "Lentezza",
+            "Vulnerabilità al veleno"
          ]
       },
       {
-         "name": "Dragon's Tongue",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Carne_umana.png/revision/latest?cb=20160524132107&path-prefix=it",
+         "name": "Carne umana",
          "effects": [
-            "Resist Fire",
-            "Fortify Barter",
-            "Fortify Illusion",
-            "Fortify Two-handed"
+            "Danneggia salute",
+            "Paralizza",
+            "Ripristina magicka",
+            "Fortifica Furtività"
          ]
       },
       {
-         "name": "Dwarven Oil",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c8/Histcarp.png/revision/latest?cb=20160524144505&path-prefix=it",
+         "name": "Carpa histiana",
          "effects": [
-            "Weakness to Magic",
-            "Regenerate Magicka",
-            "Fortify Illusion",
-            "Restore Magicka"
+            "Ripristina vigore",
+            "Fortifica magicka",
+            "Danneggia rigenerazione vigore",
+            "Respirare sott'acqua"
          ]
       },
       {
-         "name": "Ectoplasm",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6f/Cenere_progenie.png/revision/latest?cb=20180626121949&path-prefix=it",
+         "name": "Cenere di progenie",
          "effects": [
-            "Restore Magicka",
-            "Fortify Destruction",
-            "Fortify Magicka",
-            "Damage Health"
+            "Devasta vigore",
+            "Resistenza al fuoco",
+            "Fortifica incantamento",
+            "Devasta magicka"
          ]
       },
       {
-         "name": "Elves Ear",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/05/Ceneri_Berit.png/revision/latest?cb=20180621123734&path-prefix=it",
+         "name": "Ceneri di Berit",
          "effects": [
-            "Restore Magicka",
-            "Weakness to Frost",
-            "Fortify Marksman",
-            "Resist Fire"
+            "Danneggia vigore",
+            "Resistenza al fuoco",
+            "Fortifica evocazione",
+            "Devasta vigore"
          ]
       },
       {
-         "name": "Eye of Sabre Cat",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/df/Imp_stool.png/revision/latest?cb=20160524144557&path-prefix=it",
+         "name": "Ceppo di folletto",
          "effects": [
-            "Restore Stamina",
-            "Damage Magicka",
-            "Ravage Health",
-            "Restore Health"
+            "Danneggia salute",
+            "Danno continuato alla salute",
+            "Paralizza",
+            "Ripristina salute"
          ]
       },
       {
-         "name": "Falmer Ear",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Mudcrab_chitin.png/revision/latest?cb=20160524153449&path-prefix=it",
+         "name": "Chitina di granchio del fango",
          "effects": [
-            "Damage Health",
-            "Frenzy",
-            "Resist Poison",
-            "Fortify Lockpicking"
+            "Ripristina vigore",
+            "Cura malattie",
+            "Resistenza al veleno",
+            "Resistenza al fuoco"
          ]
       },
       {
-         "name": "Fire Salts",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/99/Nordic_barnacle.png/revision/latest?cb=20160524152826&path-prefix=it",
+         "name": "Cirripede nordico",
          "effects": [
-            "Weakness to Frost",
-            "Restore Magicka",
-            "Resist Fire",
-            "Regenerate Magicka"
+            "Danneggia magicka",
+            "Respirare sott'acqua",
+            "Rigenera salute",
+            "Fortifica Borseggiare"
          ]
       },
       {
-         "name": "Fly Amanita",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/70/Skeever_tail.png/revision/latest?cb=20160524155949&path-prefix=it",
+         "name": "Coda di skeever",
          "effects": [
-            "Resist Fire",
-            "Frenzy",
-            "Fortify Two-handed",
-            "Regenerate Stamina"
+            "Danneggia rigenerazione vigore",
+            "Devasta Salute (1)",
+            "Danneggia salute",
+            "Fortifica Armatura leggera"
          ]
       },
       {
-         "name": "Frost Mirriam",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/40/Codalarga.png/revision/latest?cb=20180302130351&path-prefix=it",
+         "name": "Codalarga",
          "effects": [
-            "Resist Frost",
-            "Fortify Sneak",
-            "Ravage Magicka",
-            "Damage Stamina Regen"
+            "Danneggia salute",
+            "Fortifica Alterazione",
+            "Lentezza",
+            "Fortifica carico massimo"
          ]
       },
       {
-         "name": "Frost Salts",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/Large_antlers.png/revision/latest?cb=20160524145549&path-prefix=it",
+         "name": "Corna grandi",
          "effects": [
-            "Weakness to Fire",
-            "Resist Frost",
-            "Restore Magicka",
-            "Fortify Conjuration"
+            "Ripristina vigore",
+            "Fortifica vigore",
+            "Lentezza",
+            "Danneggia rigenerazione vigore"
          ]
       },
       {
-         "name": "Garlic",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d5/FileSR-ing-Bleeding_Crown.png/revision/latest?cb=20120204163443&path-prefix=it",
+         "name": "Corona insanguinata",
          "effects": [
-            "Resist Poison",
-            "Fortify Stamina",
-            "Regenerate Magicka",
-            "Regenerate Health"
+            "Vulnerabilità al fuoco",
+            "Fortifica Parare",
+            "Vulnerabilità al veleno",
+            "Resistenza alla magia"
          ]
       },
       {
-         "name": "Giant Lichen",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/Tundra_cotton.png/revision/latest?cb=20160524154513&path-prefix=it",
+         "name": "Cotone della tundra",
          "effects": [
-            "Ravage Health",
-            "Weakness to Poison",
-            "Weakness to Shock",
-            "Restore Magicka"
+            "Resistenza alla magia",
+            "Fortifica magicka",
+            "Fortifica Parare",
+            "Fortifica Oratoria"
          ]
       },
       {
-         "name": "Giant's Toe",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/24/Daedra_heart.png/revision/latest?cb=20160524144844&path-prefix=it",
+         "name": "Cuore di Daedra",
          "effects": [
-            "Damage Stamina",
-            "Fortify Carry Weight",
-            "Fortify Health",
-            "Damage Stamina Regen"
+            "Ripristina salute",
+            "Danneggia rigenerazione vigore",
+            "Danneggia magicka",
+            "Paura"
          ]
       },
       {
-         "name": "Glow Dust",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6a/TESV_Briar_Heart.png/revision/latest?cb=20160524144817&path-prefix=it",
+         "name": "Cuore di rovo",
          "effects": [
-            "Damage Magicka",
-            "Fortify Destruction",
-            "Damage Magicka Regen",
-            "Resist Shock"
+            "Rigenera magicka",
+            "Fortifica Parare",
+            "Paralizza",
+            "Fortifica magicka"
          ]
       },
       {
-         "name": "Glowing Mushroom",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Human_heart.png/revision/latest?cb=20160524145000&path-prefix=it",
+         "name": "Cuore umano",
          "effects": [
-            "Resist Shock",
-            "Fortify Destruction",
-            "Fortify Smithing",
-            "Fortify Health"
+            "Danneggia salute",
+            "Danneggia magicka",
+            "Danneggia rigenerazione magicka",
+            "Frenesia"
          ]
       },
       {
-         "name": "Grass Pod",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Ice_wraith_teeth.png/revision/latest?cb=20160524145110&path-prefix=it",
+         "name": "Dente di spettro del ghiaccio",
          "effects": [
-            "Resist Poison",
-            "Ravage Magicka",
-            "Fortify Alteration",
-            "Restore Magicka"
+            "Vulnerabilità al gelo",
+            "Fortifica Armatura Pesante",
+            "Invisibilità",
+            "Vulnerabilità al fuoco"
          ]
       },
       {
-         "name": "Hagraven Claw",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/46/Dente_di_tigre_dai_denti_a_sciabola-0.png/revision/latest?cb=20160524092222&path-prefix=it",
+         "name": "Dente di tigre dai denti a sciabola",
          "effects": [
-            "Resist Magic",
-            "Lingering Damage Magicka",
-            "Fortify Enchanting",
-            "Fortify Barter"
+            "Ripristina vigore",
+            "Fortifica Armatura Pesante",
+            "Fortifica Forgiatura",
+            "Vulnerabilità al veleno"
          ]
       },
       {
-         "name": "Hagraven Feathers",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/20/Giants_toe.png/revision/latest?cb=20160524145206&path-prefix=it",
+         "name": "Dito di gigante",
          "effects": [
-            "Damage Magicka",
-            "Frenzy",
-            "Fortify Conjuration",
-            "Weakness to Shock"
+            "Danneggia vigore",
+            "Fortifica salute",
+            "Fortifica carico massimo",
+            "Danneggia rigenerazione vigore"
          ]
       },
       {
-         "name": "Hanging Moss",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Skyrim_ectoplasm.png/revision/latest?cb=20160524145249&path-prefix=it",
+         "name": "Ectoplasma",
          "effects": [
-            "Damage Magicka",
-            "Damage Magicka Regen",
-            "Fortify Health",
-            "Fortify One-handed"
+            "Ripristina magicka",
+            "Fortifica Distruzione",
+            "Fortifica magicka",
+            "Danneggia salute"
          ]
       },
       {
-         "name": "Hawk Beak",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/41/FileSR-ing-Bone_Meal.png/revision/latest?cb=20120204164114&path-prefix=it",
+         "name": "Farina d'ossa",
          "effects": [
-            "Restore Stamina",
-            "Resist Frost",
-            "Fortify Carry Weight",
-            "Resist Shock"
+            "Danneggia vigore",
+            "Resistenza fuoco",
+            "Fortifica Evocazione",
+            "Devasta Vigore (2)"
          ]
       },
       {
-         "name": "Hawk Feathers",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cc/Wisp_wrappings.png/revision/latest?cb=20160524153843&path-prefix=it",
+         "name": "Fasce del fuoco fatuo",
          "effects": [
-            "Cure Disease",
-            "Fortify Light Armor",
-            "Fortify One-handed",
-            "Fortify Sneak"
+            "Ripristina vigore",
+            "Fortifica Distruzione",
+            "Fortifica carico massimo",
+            "Resistenza alla magia"
          ]
       },
       {
-         "name": "Histcarp",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e0/SR-icon-ingredient-Honeycomb.png/revision/latest?cb=20160524145352&path-prefix=it",
+         "name": "Favo",
          "effects": [
-            "Restore Stamina",
-            "Fortify Magicka",
-            "Damage Stamina Regen",
-            "Waterbreathing"
+            "Ripristina vigore",
+            "Fortifica Parare",
+            "Fortifica Armatura Leggera",
+            "Devasta Vigore (2)"
          ]
       },
       {
-         "name": "Honeycomb",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/FileSR-ing-Blue_Mountain_Flower.png/revision/latest?cb=20120204164033&path-prefix=it",
+         "name": "Fiore blu di montagna",
          "effects": [
-            "Restore Stamina",
-            "Fortify Block",
-            "Fortify Light Armor",
-            "Ravage Stamina"
+            "Ripristina salute",
+            "Fortifica Evocazione",
+            "Fortifica salute",
+            "Danneggia rigenerazione stamina"
          ]
       },
       {
-         "name": "Human Flesh",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/50/Fiore_giallo.png/revision/latest?cb=20180603180113&path-prefix=it",
+         "name": "Fiore giallo di montagna",
          "effects": [
-            "Damage Health",
-            "Paralysis",
-            "Restore Magicka",
-            "Fortify Sneak"
+            "Resistenza al veleno",
+            "Fortifica recupero",
+            "Fortifica salute",
+            "Danneggia rigenerazione vigore"
          ]
       },
       {
-         "name": "Human Heart",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Red_mountain_flower.png/revision/latest?cb=20160524151904&path-prefix=it",
+         "name": "Fiore rosso di montagna",
          "effects": [
-            "Damage Health",
-            "Damage Magicka Regen",
-            "Damage Magicka",
-            "Frenzy"
+            "Ripristina magicka",
+            "Devasta Magicka (3)",
+            "Fortifica magicka",
+            "Danneggia salute"
          ]
       },
       {
-         "name": "Ice Wraith Teeth",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/66/Purple_mountain_flower.png/revision/latest?cb=20160524153259&path-prefix=it",
+         "name": "Fiore viola di montagna",
          "effects": [
-            "Weakness to Frost",
-            "Fortify Heavy Armor",
-            "Invisibility\n",
-            "Weakness to Fire"
+            "Ripristina vigore",
+            "Fortifica Furtività",
+            "Danneggia permanentemente magicka",
+            "Resistenza al freddo"
          ]
       },
       {
-         "name": "Imp Stool",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6d/Skyrim_Taproot.png/revision/latest?cb=20160524152205&path-prefix=it",
+         "name": "Fittone",
          "effects": [
-            "Damage Health",
-            "Paralysis",
-            "Lingering Damage Health",
-            "Restore Health"
+            "Vulnerabilità alla magia",
+            "Fortifica Illusione",
+            "Rigenera magicka",
+            "Ripristina magicka"
          ]
       },
       {
-         "name": "Jarrin Root",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fb/White_cap.png/revision/latest?cb=20160524160810&path-prefix=it",
+         "name": "Fungo bianco",
          "effects": [
-            "Damage Health",
-            "Damage Stamina",
-            "Damage Magicka",
-            "Damage Magicka Regen"
+            "Vulnerabilità al gelo",
+            "Fortifica Armatura Pesante",
+            "Ripristina magicka",
+            "Devasta Magicka (3)"
          ]
       },
       {
-         "name": "Jazbay Grapes",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Glowing_mushroom.png/revision/latest?cb=20160524161802&path-prefix=it",
+         "name": "Fungo luminoso",
          "effects": [
-            "Weakness to Magic",
-            "Fortify Magicka",
-            "Regenerate Magicka",
-            "Ravage Health"
+            "Resistenza all'elettricità",
+            "Fortifica Distruzione",
+            "Fortifica Forgiatura",
+            "Fortifica salute"
          ]
       },
       {
-         "name": "Juniper Berries",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/90/Gelatina_netch.png/revision/latest?cb=20180608135336&path-prefix=it",
+         "name": "Gelatina di netch",
          "effects": [
-            "Weakness to Fire",
-            "Rengerate Health",
-            "Fortify Marksman",
-            "Damage Stamina Regen"
+            "Paralisi",
+            "Fortifica carico massimo",
+            "Ripristina vigore",
+            "Paura"
          ]
       },
       {
-         "name": "Large Antlers",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bd/Gelatina_solca_cenere.png/revision/latest?cb=20180611131705&path-prefix=it",
+         "name": "Gelatina di solca-cenere",
          "effects": [
-            "Restore Stamina",
-            "Fortify Stamina",
-            "Slow",
-            "Damage Stamina Regen"
+            "Ripristina salute",
+            "Fortifica armatura leggera",
+            "Resistenza all'elettricità",
+            "Vulnerabilità al gelo"
          ]
       },
       {
-         "name": "Lavender",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e2/Wheat.png/revision/latest?cb=20160524160719&path-prefix=it",
+         "name": "Grano",
          "effects": [
-            "Resist Magic",
-            "Fortify Stamina",
-            "Ravage Magicka",
-            "Fortify Conjuration"
+            "Ripristina salute",
+            "Fortifica salute",
+            "Danneggia rigenerazione vigore",
+            "Danno continuato alla magicka"
          ]
       },
       {
-         "name": "Luna Moth Wing",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8c/Troll_fat.png/revision/latest?cb=20160524160643&path-prefix=it",
+         "name": "Grasso di troll",
          "effects": [
-            "Damage Magicka",
-            "Fortify Light Armor",
-            "Rengenerate Health",
-            "Invisibility\n"
+            "Resistenza al veleno",
+            "Fortifica Armi a due mani",
+            "Frenesia",
+            "Danneggia salute"
          ]
       },
       {
-         "name": "Moon Sugar",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/80/Lavender.png/revision/latest?cb=20160524151415&path-prefix=it",
+         "name": "Lavanda",
          "effects": [
-            "Weakness to Fire",
-            "Resist Frost",
-            "Restore Magicka",
-            "Regenerate Magicka"
+            "Resistenza alla magia",
+            "Fortifica vigore",
+            "Devasta Magicka (3)",
+            "Fortifica Evocazione"
          ]
       },
       {
-         "name": "Mora Tapinella",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e5/Legno_spriggan_bruciato.png/revision/latest?cb=20180615124714&path-prefix=it",
+         "name": "Legno di spriggan bruciato",
          "effects": [
-            "Restore Magicka",
-            "Lingering Damage Health",
-            "Regenerate Stamina",
-            "Fortify Illusion"
+            "Vulnerabilità al fuoco",
+            "Fortifica alterazione",
+            "Danneggia rigenerazione magicka",
+            "Lentezza"
          ]
       },
       {
-         "name": "Mudcrab Chitin",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b5/Libellula_arancione.png/revision/latest?cb=20180309161147&path-prefix=it",
+         "name": "Libellula arancione",
          "effects": [
-            "Restore Stamina",
-            "Cure Disease",
-            "Resist Poison",
-            "Resist Fire"
+            "Ripristina vigore",
+            "Devasta Magicka (3)",
+            "Fortifica Borseggiare",
+            "Danno continuato alla salute"
          ]
       },
       {
-         "name": "Niamira's Rot",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b6/Libellula_blu.png/revision/latest?cb=20180311162829&path-prefix=it",
+         "name": "Libellula blu",
          "effects": [
-            "Damage Magicka",
-            "Fear",
-            "Fortify Lockpicking",
-            "Rengenerate Health"
+            "Resistenza all'elettricità",
+            "Fortifica Borseggiare",
+            "Ripristina salute",
+            "Paura"
          ]
       },
       {
-         "name": "Nightshade",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/3/3b/Giant_lichen.png/revision/latest?cb=20160524145745&path-prefix=it",
+         "name": "Lichene gigante",
          "effects": [
-            "Damage Health",
-            "Damage Magicka Regen",
-            "Lingering Damage Stamina",
-            "Fortify Destruction"
+            "Vulnerabilità all'elettricità",
+            "Devasta Salute (1)",
+            "Vulnerabilità al veleno",
+            "Ripristina magicka"
          ]
       },
       {
-         "name": "Nirnroot",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8f/Skyrim_spriggan_sap.png/revision/latest?cb=20160524160242&path-prefix=it",
+         "name": "Linfa di spriggan",
          "effects": [
-            "Damage Health",
-            "Damage Stamina",
-            "Invisibility\n",
-            "Resist Magic"
+            "Danneggia rigenerazione magicka",
+            "Fortifica Incantamento",
+            "Fortifica Forgiatura",
+            "Fortifica Alterazione"
          ]
       },
       {
-         "name": "Nordic Barnacle",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fe/TESV_Dragons_Tongue.png/revision/latest?cb=20160524145813&path-prefix=it",
+         "name": "Lingua di drago",
          "effects": [
-            "Damage Magicka",
-            "Waterbreathing",
-            "Regenerate Health",
-            "Fortify Pickpocket"
+            "Resistenza al fuoco",
+            "Fortifica Oratoria",
+            "Fortifica Illusione",
+            "Fortifica Armi a due mani"
          ]
       },
       {
-         "name": "Orange Dartwing",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f4/Namiras_rot.png/revision/latest?cb=20160524153000&path-prefix=it",
+         "name": "Miceto di Namira",
          "effects": [
-            "Restore Stamina",
-            "Ravage Magicka",
-            "Fortify Pickpocket",
-            "Lingering Damage Health"
+            "Danneggia magicka",
+            "Fortifica Scassinare",
+            "Paura",
+            "Rigenera salute"
          ]
       },
       {
-         "name": "Pearl",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/fc/TESV_Frost_Mirriam.png/revision/latest?cb=20160524145921&path-prefix=it",
+         "name": "Mirra del gelo",
          "effects": [
-            "Restore Stamina",
-            "Restore Magicka",
-            "Fortify Block",
-            "Resist Shock"
+            "Resistenza al freddo",
+            "Fortifica Furtività",
+            "Devasta Magicka (3)",
+            "Danneggia rigenerazione vigore"
          ]
       },
       {
-         "name": "Pine Thrush Egg",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Mora_tapinella.png/revision/latest?cb=20160524152348&path-prefix=it",
+         "name": "Mora tapinella",
          "effects": [
-            "Restore Stamina",
-            "Fortify Lockpicking",
-            "Weakness to Poison",
-            "Resist Shock"
+            "Ripristina magicka",
+            "Danno continuato alla salute",
+            "Rigenera vigore",
+            "Fortifica Illusione"
          ]
       },
       {
-         "name": "Powdered Mammoth Tusk",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c3/Salt_pile.png/revision/latest?cb=20160524155328&path-prefix=it",
+         "name": "Mucchio di sali",
          "effects": [
-            "Restore Stamina",
-            "Weakness to Fire",
-            "Fortify Sneak",
-            "Fear"
+            "Vulnerabilità alla magia",
+            "Fortifica Recupero",
+            "Lentezza",
+            "Rigenera magicka"
          ]
       },
       {
-         "name": "Purple Mountain Flower",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/cf/Hanging_moss.png/revision/latest?cb=20160524151459&path-prefix=it",
+         "name": "Muschio",
          "effects": [
-            "Restore Stamina",
-            "Fortify Sneak",
-            "Lingering Damage Magicka",
-            "Resist Frost"
+            "Danneggia magicka",
+            "Fortifica salute",
+            "Danneggia rigenerazione magicka",
+            "Fortifica Armi a una mano"
          ]
       },
       {
-         "name": "Red Mountain Flower",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/6e/Muschio_Imperatore.png/revision/latest?cb=20180613124124&path-prefix=it",
+         "name": "Muschio dell'Imperatore",
          "effects": [
-            "Restore Magicka",
-            "Ravage Magicka",
-            "Fortify Magicka",
-            "Damage Health"
+            "Danneggia salute",
+            "Fortifica magicka",
+            "Rigenera salute",
+            "Fortifica armi a due mani"
          ]
       },
       {
-         "name": "River Betty",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/04/TESV_Eye_Of_Sabre_Cat.png/revision/latest?cb=20160524150005&path-prefix=it",
+         "name": "Occhio di tigre dai denti a sciabola",
          "effects": [
-            "Damage Health",
-            "Fortify Alteration",
-            "Slow",
-            "Fortify Carry Weight"
+            "Ripristina vigore",
+            "Devasta Salute (1)",
+            "Danneggia magicka",
+            "Ripristina salute"
          ]
       },
       {
-         "name": "Rock Warbler Egg",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/29/Dwarven_oil.png/revision/latest?cb=20160524150031&path-prefix=it",
+         "name": "Olio nanico",
          "effects": [
-            "Restore Health",
-            "Fortify One-handed",
-            "Damage Stamina",
-            "Weakness to Magic"
+            "Vulnerabilità alla magia",
+            "Fortifica Illusione",
+            "Rigenera magicka",
+            "Ripristina magicka"
          ]
       },
       {
-         "name": "Sabre Cat Tooth",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5e/TESV_Elves_Ear.png/revision/latest?cb=20160524150106&path-prefix=it",
+         "name": "Orecchio di elfo",
          "effects": [
-            "Restore Stamina",
-            "Fortify Heavy Armor",
-            "Fortify Smithing",
-            "Weakness to Poison"
+            "Ripristina magicka",
+            "Fortifica Tiro",
+            "Vulnerabilità al gelo",
+            "Resistenza al fuoco"
          ]
       },
       {
-         "name": "Salt Pile",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7d/TESV_Falmer_Ear.png/revision/latest?cb=20160524150139&path-prefix=it",
+         "name": "Orecchio di falmer",
          "effects": [
-            "Weakness to Magic",
-            "Fortify Restoration",
-            "Slow",
-            "Regenerate Magicka"
+            "Danneggia salute",
+            "Frenesia",
+            "Resistenza al veleno",
+            "Fortifica Scassinare"
          ]
       },
       {
-         "name": "Scaly Pholiata",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/85/TESV_Charred_Skeever_Hide.png/revision/latest?cb=20160524150223&path-prefix=it",
+         "name": "Pelle di skeever arrosto",
          "effects": [
-            "Weakness to Magic",
-            "Fortify Illusion",
-            "Regenerate Stamina",
-            "Fortify Carry Weight"
+            "Ripristina vigore",
+            "Cura malattie",
+            "Resistenza al veleno",
+            "Ripristina salute"
          ]
       },
       {
-         "name": "Silverside Perch",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/c/c2/Skyrim_Pearl.png/revision/latest?cb=20160524154307&path-prefix=it",
+         "name": "Perla",
          "effects": [
-            "Restore Stamina",
-            "Damage Stamina Regen",
-            "Ravage Health",
-            "Resist Frost"
+            "Ripristina vigore",
+            "Fortifica Parare",
+            "Ripristina magicka",
+            "Resistenza all'elettricità"
          ]
       },
       {
-         "name": "Skeever Tail",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/6/69/Small_pearl.png/revision/latest?cb=20160524154040&path-prefix=it",
+         "name": "Perla piccola",
          "effects": [
-            "Damage Stamina Regen",
-            "Ravage Health",
-            "Damage Health",
-            "Fortify Light Armor"
+            "Ripristina vigore",
+            "Fortifica Armi a una mano",
+            "Fortifica Recupero",
+            "Resistenza al freddo"
          ]
       },
       {
-         "name": "Slaughterfish Egg",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e8/Persico_argenteo.png/revision/latest?cb=20160524154151&path-prefix=it",
+         "name": "Persico argenteo",
          "effects": [
-            "Resist Poison",
-            "Fortify Pickpocket",
-            "Lingering Damage Health",
-            "Fortify Stamina"
+            "Ripristina vigore",
+            "Danneggia rigenerazione vigore",
+            "Devasta Salute (1)",
+            "Resistenza al freddo"
          ]
       },
       {
-         "name": "Slaughterfish Scales",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/95/TESV_Beehive_Husk.png/revision/latest?cb=20180320101509&path-prefix=it",
+         "name": "Pezzo di alveare",
          "effects": [
-            "Resist Frost",
-            "Lingering Damage Health",
-            "Fortify Heavy Armor",
-            "Fortify Block"
+            "Resistenza al veleno",
+            "Fortifica Armatura leggera",
+            "Fortifica Furtività",
+            "Fortifica Distruzione"
          ]
       },
       {
-         "name": "Small Antlers",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/ed/Scaly_pholiota.png/revision/latest?cb=20160524155827&path-prefix=it",
+         "name": "Pholiota squamosa",
          "effects": [
-            "Weakness to Poison",
-            "Fortify Restoration",
-            "Lingering Damage Stamina",
-            "Damage Health"
+            "Vulnerabilità alla magia",
+            "Fortifica Illusione",
+            "Rigenera vigore",
+            "Fortifica carico massimo"
          ]
       },
       {
-         "name": "Small Pearl",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Small_antlers.png/revision/latest?cb=20160524155545&path-prefix=it",
+         "name": "Piccole corna",
          "effects": [
-            "Restore Stamina",
-            "Fortify One-handed",
-            "Fortify Restoration",
-            "Resist Frost"
+            "Vulnerabilità al veleno",
+            "Fortifica Recupero",
+            "Danno continuato al vigore",
+            "Danneggia salute"
          ]
       },
       {
-         "name": "Snowberries",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/01/FileSR-ing-Abecean_Longfin.png/revision/latest?cb=20120204162135&path-prefix=it",
+         "name": "Pinnalunga abeceano",
          "effects": [
-            "Resist Fire",
-            "Fortify Enchanting",
-            "Resist Frost",
-            "Resist Shock"
+            "Vulnerabilità al gelo",
+            "Fortifica Furtività",
+            "Vulnerabilità al veleno",
+            "Fortifica Recupero"
          ]
       },
       {
-         "name": "Spider Egg",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/a/af/Hawk_feathers.png/revision/latest?cb=20160524150352&path-prefix=it",
+         "name": "Piume di falco",
          "effects": [
-            "Damage Stamina",
-            "Damage Magicka Regen",
-            "Fortify Lockpicking",
-            "Fortify Marksman"
+            "Cura malattie",
+            "Fortifica Armatura Leggera",
+            "Fortifica Armi a una mano",
+            "Fortifica Furtività"
          ]
       },
       {
-         "name": "Spriggan Sap",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/83/Piume_Felsaad_Tern.png/revision/latest?cb=20180623124145&path-prefix=it",
+         "name": "Piume di Felsaad Tern",
          "effects": [
-            "Damage Magicka Regen",
-            "Fortify Enchanting",
-            "Fortify Smithing",
-            "Fortify Alteration"
+            "Ripristina salute",
+            "Fortifica armatura leggera",
+            "Cura malattie",
+            "Resistenza alla magia"
          ]
       },
       {
-         "name": "Swamp Fungal Pod",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Hagraven_feathers.png/revision/latest?cb=20160524150453&path-prefix=it",
+         "name": "Piume di hagraven",
          "effects": [
-            "Resist Shock",
-            "Lingering Damage Magicka",
-            "Paralysis",
-            "Restore Health"
+            "Danneggia magicka",
+            "Fortifica Evocazione",
+            "Frenesia",
+            "Vulnerabilità all'elettricità"
          ]
       },
       {
-         "name": "Taproot",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f6/Skyrim_vampire_dust.png/revision/latest?cb=20160524152029&path-prefix=it",
+         "name": "Polvere di vampiro",
          "effects": [
-            "Weakness to Magic",
-            "Fortify Illusion",
-            "Regenerate Magicka",
-            "Restore Magicka"
+            "Invisibilità",
+            "Ripristina magicka",
+            "Rigenera salute",
+            "Cura malattie"
          ]
       },
       {
-         "name": "Thistle Branch",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d9/Skyrim_glow_dust.png/revision/latest?cb=20160524150601&path-prefix=it",
+         "name": "Polvere luminosa",
          "effects": [
-            "Resist Frost",
-            "Ravage Stamina",
-            "Resist Poison",
-            "Fortify Heavy Armor"
+            "Danneggia magicka",
+            "Danneggia rigenerazione magicka",
+            "Fortifica Distruzione",
+            "Resistenza all'elettricità"
          ]
       },
       {
-         "name": "Torchbug Thorax",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/4f/Radice_amara.png/revision/latest?cb=20180623124102&path-prefix=it",
+         "name": "Radice amara",
          "effects": [
-            "Restore Stamina",
-            "Lingering Damage Magicka",
-            "Weakness to Magic",
-            "Fortify Stamina"
+            "Vulnerabilità all'elettricità",
+            "Fortifica carico massimo",
+            "Danneggia magicka",
+            "Lentezza"
          ]
       },
       {
-         "name": "Troll Fat",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/47/Canis_root.png/revision/latest?cb=20160524150637&path-prefix=it",
+         "name": "Radice canina",
          "effects": [
-            "Resist Poison",
-            "Fortify Two-handed",
-            "Frenzy",
-            "Damage Health"
+            "Danneggia vigore",
+            "Fortifica Armi a una mano",
+            "Fortifica Tiro",
+            "Paralizza"
          ]
       },
       {
-         "name": "Tundra Cotton",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f2/B617F250-7F46-4883-9933-FA2B8A4B3046.png/revision/latest?cb=20180623143122&path-prefix=it",
+         "name": "Radice di Jarrin",
          "effects": [
-            "Resist Magic",
-            "Fortify Magicka",
-            "Fortify Block",
-            "Fortify Barter"
+            "Danneggia salute",
+            "Danneggia magicka",
+            "Danneggia vigore",
+            "Danneggia rigenerazione magicka"
          ]
       },
       {
-         "name": "Vampire Dust",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/81/Nirnroot.png/revision/latest?cb=20160524151745&path-prefix=it",
+         "name": "Radice di Nirn",
          "effects": [
-            "Invisibility\n",
-            "Regenerate Health",
-            "Restore Magicka",
-            "Cure Disease"
+            "Danneggia salute",
+            "Danneggia vigore",
+            "Invisibilità",
+            "Resistenza alla magia"
          ]
       },
       {
-         "name": "Void Salts",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/TESV_Crimson_Nirnroot.png/revision/latest?cb=20180325182146&path-prefix=it",
+         "name": "Radice di Nirn Cremisi",
          "effects": [
-            "Weakness to Shock",
-            "Resist Magic",
-            "Damage Health",
-            "Fortify Magicka"
+            "Danneggia salute",
+            "Danneggia vigore",
+            "Invisibilità",
+            "Resistenza alla magia"
          ]
       },
       {
-         "name": "Wheat",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/bf/SR-icon-ingredient-Thistle_Branch.png/revision/latest?cb=20160524150714&path-prefix=it",
+         "name": "Ramo di cardo",
          "effects": [
-            "Restore Health",
-            "Fortify Health",
-            "Damage Stamina Regen",
-            "Lingering Damage Magicka"
+            "Resistenza al freddo",
+            "Devasta Vigore (2)",
+            "Resistenza al veleno",
+            "Fortifica Armatura Pesante"
          ]
       },
       {
-         "name": "White Cap",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d1/Creep_cluster.png/revision/latest?cb=20160524150759&path-prefix=it",
+         "name": "Rampicanti",
          "effects": [
-            "Weakness to Frost",
-            "Fortify Heavy Armor",
-            "Restore Magicka",
-            "Ravage Magicka"
+            "Ripristina magicka",
+            "Danneggia rigenerazione vigore",
+            "Fortifica carico massimo",
+            "Vulnerabilità alla magia"
          ]
       },
       {
-         "name": "Wisp Wrappings",
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/5/5b/Rampicanti_cenere.png/revision/latest?cb=20180625154630&path-prefix=it",
+         "name": "Rampicanti di cenere",
          "effects": [
-            "Restore Stamina",
-            "Fortify Destruction",
-            "Fortify Carry Weight",
-            "Resist Magic"
+            "Danneggia vigore",
+            "Invisibilità",
+            "Resistenza al fuoco",
+            "Fortifica distruzione"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/f/f5/FileSR-ing-Blisterwort.png/revision/latest?cb=20120204163902&path-prefix=it",
+         "name": "Ranuncolo",
+         "effects": [
+            "Danneggia vigore",
+            "Frenesia",
+            "Ripristina salute",
+            "Fortifica Forgiatura"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/7b/Sali_del_fuoco_%28Skyrim%29.jpg/revision/latest?cb=20111220154341&path-prefix=it",
+         "name": "Sali del fuoco",
+         "effects": [
+            "Vulnerabilità al gelo",
+            "Resistenza al fuoco",
+            "Ripristina magicka",
+            "Rigenera magicka"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/7/73/Skyrim_frost_salts.png/revision/latest?cb=20160524150836&path-prefix=it",
+         "name": "Sali del gelo",
+         "effects": [
+            "Vulnerabilità al fuoco",
+            "Resistenza al freddo",
+            "Ripristina magicka",
+            "Fortifica Evocazione"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/be/Skyrim_void_salts.png/revision/latest?cb=20160524154648&path-prefix=it",
+         "name": "Sali del vuoto",
+         "effects": [
+            "Vulnerabilità all'elettricità",
+            "Resistenza alla magia",
+            "Danneggia salute",
+            "Fortifica magicka"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/28/Cyrodillic_spadetail.png/revision/latest?cb=20160524150925&path-prefix=it",
+         "name": "Spadino cyrodiilico",
+         "effects": [
+            "Danneggia vigore",
+            "Fortifica Recupero",
+            "Paura",
+            "Devasta Salute"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Slaughterfish_scales.png/revision/latest?cb=20160524152457&path-prefix=it",
+         "name": "Squame di pesce macellaio",
+         "effects": [
+            "Resistenza al freddo",
+            "Danno continuato alla salute",
+            "Fortifica Armatura Pesante",
+            "Fortifica Parare"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/8/8a/Chaurus_egg.png/revision/latest?cb=20160524151005&path-prefix=it",
+         "name": "Uova di chaurus",
+         "effects": [
+            "Vulnerabilità al veleno",
+            "Fortifica vigore",
+            "Danneggia magicka",
+            "Invisibilità"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/0/00/Hawk_egg.png/revision/latest?cb=20180623212235&path-prefix=it",
+         "name": "Uovo di falco",
+         "effects": [
+            "Resistenza alla magia",
+            "Danneggia rigenerazione magicka",
+            "Respirare sott'acqua",
+            "Danneggia vigore persistente"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/b/b7/Chicken_egg.png/revision/latest?cb=20160524151050&path-prefix=it",
+         "name": "Uovo di gallina",
+         "effects": [
+            "Resistenza alla magia",
+            "Danneggia rigenerazione magicka",
+            "Respirare sott'acqua",
+            "Danno continuato al vigore"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/2/2e/Uovo_di_passero_delle_rocce.png/revision/latest?cb=20160524155213&path-prefix=it",
+         "name": "Uovo di passero delle rocce",
+         "effects": [
+            "Ripristina salute",
+            "Fortifica Armi a una mano",
+            "Danneggia vigore",
+            "Vulnerabilità alla magia"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/d6/Slaughterfish_egg.png/revision/latest?cb=20160524152604&path-prefix=it",
+         "name": "Uovo di pesce macellaio",
+         "effects": [
+            "Resistenza al veleno",
+            "Fortifica Borseggiare",
+            "Danno continuato alla salute",
+            "Fortifica vigore"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/d/dc/Spider_egg.png/revision/latest?cb=20160524154949&path-prefix=it",
+         "name": "Uovo di ragno",
+         "effects": [
+            "Danneggia vigore",
+            "Danneggia rigenerazione magicka",
+            "Fortifica Scassinare",
+            "Fortifica Tiro"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/4/49/Uovo_di_tordo.png/revision/latest?cb=20160524153730&path-prefix=it",
+         "name": "Uovo di tordo",
+         "effects": [
+            "Ripristina vigore",
+            "Fortifica Scassinare",
+            "Vulnerabilità al veleno",
+            "Resistenza all'elettricità"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9e/Zanna_cinghiale.png/revision/latest?cb=20180610091943&path-prefix=it",
+         "name": "Zanna di cinghiale",
+         "effects": [
+            "Fortifica vigore",
+            "Fortifica salute",
+            "Fortifica parare",
+            "Frenesia"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/9/9b/Zanna_mammut_polvere.png/revision/latest?cb=20180303173905&path-prefix=it",
+         "name": "Zanna di mammut in polvere",
+         "effects": [
+            "Ripristina vigore",
+            "Fortifica Furtività",
+            "Vulnerabilità al fuoco",
+            "Paura"
+         ]
+      },
+      {
+         "imageUrl": "https://vignette.wikia.nocookie.net/elderscrolls/images/e/e7/Skyrim_moon_sugar-0.png/revision/latest?cb=20160524161618&path-prefix=it",
+         "name": "Zucchero Lunare",
+         "effects": [
+            "Vulnerabilità al fuoco",
+            "Resistenza al freddo",
+            "Ripristina magicka",
+            "Rigenera magicka"
          ]
       }
    ]

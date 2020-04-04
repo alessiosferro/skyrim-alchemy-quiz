@@ -1,8 +1,7 @@
 <div class="container">
   <app-ingredient-card
     *ngIf="ingredient$ | async as ingredient"
-    [name]="ingredient.name"
-    [effects]="ingredient.effects"
+    [ingredient]="ingredient"
     (another)="getAnotherIngredient()"
   ></app-ingredient-card>
 </div>

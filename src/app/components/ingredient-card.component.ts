@@ -1,3 +1,4 @@
+import { Ingredient } from './../models/ingredient';
 import { Component, Input, Output, OnInit } from '@angular/core';
 import { EventEmitter } from '@angular/core';
 import { FormGroup, FormBuilder, FormControl } from '@angular/forms';
@@ -8,11 +9,12 @@ import { FormGroup, FormBuilder, FormControl } from '@angular/forms';
     <form [formGroup]="form" class="card" (ngSubmit)="submit()">
       <div>
         <div class="card-header">
-          {{ name | titlecase }}
+          <img height="48" [src]="ingredient.imageUrl" [title]="ingredient.name" alt="ingredient image">
+          <span>{{ ingredient.name | titlecase }}</span>
         </div>
         <div class="card-body">
-          <div class="form-group"  *ngFor="let effect of effects; let i = index">
-            <label for="effect-{{i}}">Effect {{ i + 1 }}</label>
+          <div class="form-group"  *ngFor="let effect of ingredient.effects; let i = index">
+            <label for="effect-{{i}}">Effetto {{ i + 1 }}</label>
             <input 
               id="effect-{{i}}" 
               class="form-control" 
@@ -20,19 +22,19 @@ import { FormGroup, FormBuilder, FormControl } from '@angular/forms';
               [formControlName]="i"
               [ngClass]="{'form-control--error': submitted && !validation[i], 'form-control--success': submitted && validation[i]}"
             >
-            <small class="error-feedback" *ngIf="submitted && !validation[i]">This answer is wrong.</small>
-            <small class="success-feedback" *ngIf="submitted && validation[i]">This answer is correct!</small>
+            <small class="error-feedback" *ngIf="submitted && !validation[i]">La risposta è sbagliata.</small>
+            <small class="success-feedback" *ngIf="submitted && validation[i]">Risposta corretta!</small>
           </div>
         </div>
       </div>
       <div class="card-footer">
         <div class="btn-group">
-          <button class="btn btn-primary" type="button" (click)="getAnother()">Get Another</button>
-          <button class="btn btn-primary" type="button" (click)="showAnswer()">Show Answer</button>
+          <button class="btn btn-primary" type="button" (click)="clearForm()">Pulisci</button>
+          <button class="btn btn-primary" type="button" (click)="getAnother()">Cambia ingrediente</button>
         </div>
         <div class="btn-group">
-          <button class="btn btn-primary" type="button" (click)="clearForm()">Clear</button>
-          <button [disabled]="isSolutionShown" class="btn btn-primary" type="submit">Submit</button>
+          <button class="btn btn-primary" type="button" (click)="showAnswer()">Mostra soluzione</button>
+          <button [disabled]="isSolutionShown" class="btn btn-primary" type="submit">Conferma</button>
         </div>
       </div>
     </form>
@@ -60,8 +62,13 @@ import { FormGroup, FormBuilder, FormControl } from '@angular/forms';
       min-height: 40px;
       text-align: center;
       display: flex;
-      flex-direction: column;
       justify-content: center;
+      align-items: center;
+      padding: 10px 0;
+    }
+
+    .card-header > span {
+      margin-left: 10px;
     }
 
     .card-footer {
@@ -78,10 +85,7 @@ export class IngredientCardComponent implements OnInit {
   isSolutionShown = false;
 
   @Input()
-  public name: string;
-
-  @Input()
-  public effects: string[]
+  public ingredient: Ingredient;
 
   @Output()
   another = new EventEmitter<void>();
@@ -108,14 +112,16 @@ export class IngredientCardComponent implements OnInit {
   showAnswer() {
     let tmp = {};
 
-    this.effects.forEach((effect, index) => {
+    this.ingredient.effects.forEach((effect, index) => {
       tmp[index] = effect;
     });
 
     this.form.patchValue(tmp);
-    this.submitted = true;
-    this.validation = this.getValidation();
     this.isSolutionShown = true;
+
+    if (this.submitted) {
+      this.validation = this.getValidation();
+    }
   }
 
   submit() {
@@ -129,8 +135,8 @@ export class IngredientCardComponent implements OnInit {
 
     Object.keys(formData).forEach((key, index) => {
       if (!formData[key] ||
-        (formData[key] && formData[key].trim() !== this.effects[index].toLowerCase() &&
-          formData[key].trim() !== this.effects[index])) {
+        (formData[key] && formData[key].trim() !== this.ingredient.effects[index].toLowerCase() &&
+          formData[key].trim() !== this.ingredient.effects[index])) {
         fieldsValidation.push(false);
         return;
       }
